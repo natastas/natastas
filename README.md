@@ -5,7 +5,7 @@
 <br />
 
 ##  🚀💫♥️ Beginner web developer ♥️💫🚀
-- 🖥️ I want to become a programmer
+- 🖥️ I am studying at Yandex Practicum
 - 💪 I love writing code
 - 🔭 I am constantly learning new things
 - 🍩 I love baking desserts
