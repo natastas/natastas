@@ -13,6 +13,13 @@
 <img align="left" alt="NODE" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
+### Connect with me:
+
+[<img align="left" alt="instagram" width="25px" src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png"/>][instagram]
+
+[instagram]: https://www.instagram.com/anuper_/
+[twitter]: https://twitter.com/Anuper1
+[email]: anuper@yandex.ru
 
 <!--
 **natastas/natastas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
