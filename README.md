@@ -3,11 +3,13 @@
 <br />
 
 ##  🚀💫♥️ Beginner web developer ♥️💫🚀
--
--
--
--
--
+- 🖥️ I want to become a programmer
+- 💪 I love writing code
+- 🔭 I am constantly learning new things
+- 🍩 I love baking desserts
+- ⚽️ I like to play football
+
+<br />
 
 ### Languages and Tools: 
 
@@ -37,7 +39,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -46,3 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
