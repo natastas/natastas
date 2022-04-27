@@ -12,10 +12,12 @@
 <img align="left" alt="REACT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NODE" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="instagram" width="25px" src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png"/>][instagram]
+[<img align="left" alt="instagram" width="25px" src="https://camo.githubusercontent.com/ac6e1101f110e5f500287cf70dac72519687620deefb5e8de1fa7ba6a3ba2407/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f747769747465722e706e67"/>][twitter]
 
 [instagram]: https://www.instagram.com/anuper_/
 [twitter]: https://twitter.com/Anuper1
