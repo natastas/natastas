@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Stanislav
 
-![](https://komarev.com/ghpvc/?username=natastas&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=natastas&color=blue&style=for-the-badge)
 
 <br />
 
