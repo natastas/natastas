@@ -30,9 +30,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="instagram" width="25px" src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png"/>][instagram]
-[<img align="left" alt="instagram" width="25px" src="https://camo.githubusercontent.com/ac6e1101f110e5f500287cf70dac72519687620deefb5e8de1fa7ba6a3ba2407/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f747769747465722e706e67"/>][twitter]
+[<img align="left" alt="instagram" width="25px" src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png"/>][Instagram]
+[<img align="left" alt="twitter" width="25px" src="https://camo.githubusercontent.com/ac6e1101f110e5f500287cf70dac72519687620deefb5e8de1fa7ba6a3ba2407/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f747769747465722e706e67"/>][Twitter]
+[<img align="left" alt="linkedin" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png"/>][LinkedIn]
 
 [instagram]: https://www.instagram.com/anuper_/
 [twitter]: https://twitter.com/Anuper1
 [email]: anuper@yandex.ru
+[LinkedIn]: https://www.linkedin.com/in/stanislav-anuprienko-6ba65a239/
